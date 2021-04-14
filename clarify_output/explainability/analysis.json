@@ -1,0 +1,57 @@
+{
+    "version": "1.0",
+    "explanations": {
+        "kernel_shap": {
+            "label0": {
+                "global_shap_values": {
+                    "customer_education": 0.0062105486552751785,
+                    "incident_type_breakin": 0.006485346013122369,
+                    "num_injuries": 0.0074945357817477135,
+                    "vehicle_claim": 0.007497521553628419,
+                    "driver_relationship_self": 0.006251470299307438,
+                    "driver_relationship_na": 0.005873671455708909,
+                    "authorities_contacted_none": 0.006171289561470972,
+                    "policy_state_nv": 0.006108964734091003,
+                    "auto_year": 0.006873015279786852,
+                    "num_vehicles_involved": 0.0062606201185871685,
+                    "policy_annual_premium": 0.006905851156287293,
+                    "customer_gender_male": 0.015837425310198754,
+                    "policy_deductable": 0.00591613842334949,
+                    "policy_liability": 0.006463904084001021,
+                    "driver_relationship_other": 0.006347350268361159,
+                    "collision_type_rear": 0.006265671184982889,
+                    "incident_type_theft": 0.006031736160886372,
+                    "incident_month": 0.008262898897778625,
+                    "num_insurers_past_5_years": 0.010267610129960867,
+                    "police_report_available": 0.008498820415361149,
+                    "authorities_contacted_police": 0.006148620938765276,
+                    "incident_severity": 0.006183848671518466,
+                    "num_claims_past_year": 0.006725145431911536,
+                    "collision_type_na": 0.006248889693574901,
+                    "num_witnesses": 0.008743806446858788,
+                    "collision_type_side": 0.006417404069099254,
+                    "months_as_customer": 0.013206226457454813,
+                    "customer_gender_female": 0.005987038975985908,
+                    "policy_state_az": 0.006079906078345931,
+                    "incident_day": 0.007884354714957803,
+                    "policy_state_id": 0.006073326413622275,
+                    "policy_state_or": 0.006088850748767629,
+                    "injury_claim": 0.006631154673200177,
+                    "customer_age": 0.01004476983814833,
+                    "collision_type_front": 0.0063998966020945465,
+                    "authorities_contacted_fire": 0.006130416848476301,
+                    "incident_type_collision": 0.006298850745708087,
+                    "driver_relationship_child": 0.006256022605409233,
+                    "incident_dow": 0.00885964178434552,
+                    "authorities_contacted_ambulance": 0.006279351167511357,
+                    "policy_state_ca": 0.006897839958576381,
+                    "total_claim_amount": 0.009863100183560456,
+                    "policy_state_wa": 0.006011068894989802,
+                    "incident_hour": 0.008292400955621516,
+                    "driver_relationship_spouse": 0.006090675556217276
+                },
+                "expected_value": 0.0318245030939579
+            }
+        }
+    }
+}
